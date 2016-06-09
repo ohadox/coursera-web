@@ -1,0 +1,20 @@
+h1 {
+    margin-top: 2px;
+}
+
+#nav-list {
+    text-align: center;
+    background-color:floralwhite
+}
+
+#nav-list li {   
+    border: 1px solid black;  
+}
+
+#main-content {   
+    min-height: 2000px;
+}
+
+#main-section {   
+    background-color:darkgrey
+}
